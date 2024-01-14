@@ -13,6 +13,9 @@
         <h1 class="text-center hover:text-lef hover:bg-orange-400">
              A PROPOS de notre projet 
         </h1>
+        <p>
+            fin msg
+        </p>
       
     </div>
 </body>

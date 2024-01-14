@@ -19,6 +19,9 @@
         <p>
             GameCineStore Nous sommes là pour vous!
         </p>
+        <p>
+            Fin text
+        </p>
     </div>
 </body>
 </html>
