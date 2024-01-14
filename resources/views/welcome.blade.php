@@ -11,9 +11,14 @@
     <div class="container">
 
         <h1 class="text-center hover:text-lef hover:bg-orange-400">
-             thinkstrong : Dev
+             Bienvenu chez GameCineStore
         </h1>
-      
+        <p>
+            GameCineStore est une plateforme
+        </p>
+        <p>
+            GameCineStore Nous sommes là pour vous!
+        </p>
     </div>
 </body>
 </html>
