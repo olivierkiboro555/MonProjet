@@ -16,7 +16,20 @@
         <p>
             fin msg
         </p>
-      
+      <label for="">
+        Nous sommes la pour vous de 8h à 18h 
+      </label>
+      <ul>
+        <li>
+            Game 
+        </li>
+        <li>    
+            Assistance 
+        </li>
+        <li>
+            Crack
+        </li>
+    </ul>
     </div>
 </body>
 </html>

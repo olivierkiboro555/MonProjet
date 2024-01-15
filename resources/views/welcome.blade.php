@@ -22,6 +22,12 @@
         <p>
             Fin text
         </p>
+        <h3>
+            Clique ici pour visite notre catalogue 
+        </h3>
+            <h2>
+                Apropos de Nous 
+            </h2>
     </div>
 </body>
 </html>
