@@ -9,25 +9,9 @@
 </head>
 <body>
     <div class="container">
-
         <h1 class="text-center hover:text-lef hover:bg-orange-400">
              Bienvenu chez GameCineStore
         </h1>
-        <p>
-            GameCineStore est une plateforme
-        </p>
-        <p>
-            GameCineStore Nous sommes là pour vous!
-        </p>
-        <p>
-            Fin text
-        </p>
-        <h3>
-            Clique ici pour visite notre catalogue 
-        </h3>
-            <h2>
-                Apropos de Nous 
-            </h2>
     </div>
 </body>
 </html>
