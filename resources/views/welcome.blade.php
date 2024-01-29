@@ -7,19 +7,27 @@
     <title>GameCineStore : home</title>
     @vite('resources/css/app.css')
 </head>
-<body>
+<body class="">
+<br>
     <div class="">
-        <br>
-        <ul class="text-center">
-            <li>
-                Accueil   
-            </li>
-            <li>
-                A propos    
-            </li>            
-        </ul>
-        <br>
 
+        <div class="">
+            <ul class="flex justify-between items-center px-20 mt-4 bg-white shadow py-2">
+                <li>
+                    Accueil   
+                </li>
+                <li>
+                    Actualite 
+                </li>
+                <li>
+                    Contact   
+                </li>
+                <li>
+                    Apropos    
+                </li>                 
+            </ul>
+        </div>
+        <br>
         <h1 class="text-center">
              Bienvenu chez GameCineStore 
              <hr>
