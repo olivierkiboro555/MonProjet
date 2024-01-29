@@ -8,10 +8,29 @@
     @vite('resources/css/app.css')
 </head>
 <body>
-    <div class="container">
-        <h1 class="text-center hover:text-lef hover:bg-orange-400">
-             Bienvenu chez GameCineStore
+    <div class="">
+        <br>
+        <ul class="text-center">
+            <li>
+                Accueil   
+            </li>
+            <li>
+                A propos    
+            </li>            
+        </ul>
+        <br>
+
+        <h1 class="text-center">
+             Bienvenu chez GameCineStore 
+             <hr>
         </h1>
+        <br>
+        <p class="text-center bg-orange-500">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Ea reprehenderit velit impedit? Delectus amet inventore 
+            ab laborum provident nam maxime alias id sint minima rerum architecto, 
+            quae consequatur eligendi magnam.
+        </p>
     </div>
 </body>
 </html>
