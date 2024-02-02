@@ -12,8 +12,8 @@
     <div class="">
 
         <div class="">
-            <ul class="flex justify-between items-center px-20 mt-4 bg-white shadow py-2">
-                <li>
+            <ul class="flex justify-between items-center px-20 mt-4 font-bold bg-white shadow py-2">
+                <li class="">
                     Accueil   
                 </li>
                 <li>
@@ -28,7 +28,7 @@
             </ul>
         </div>
         <br>
-        <h1 class="text-center">
+        <h1 class="text-center font-bold text-xl">
              Bienvenu chez GameCineStore 
              <hr>
         </h1>
