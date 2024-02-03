@@ -8,7 +8,7 @@ use Illuminate\Support\Str;
 /**
  * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\post>
  */
-class postFactory extends Factory
+class PostFactory extends Factory
 {
     /**
      * Define the model's default state.
@@ -24,7 +24,7 @@ class postFactory extends Factory
         return [
             'title'     => $title,
             'slug'      => str::slug($title),
-            'except'    => Str::limit($content, 150),
+            'excerpt'    => Str::limit($content, 150),
             'content'   => $content,
             'thumbnail' => fake()->imageUrl,
             'created_at' => $created_at,
