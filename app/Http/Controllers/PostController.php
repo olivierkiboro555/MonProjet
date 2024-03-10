@@ -10,6 +10,6 @@ class PostController extends Controller
     public function index()
 
     {
-        return 'hello world';
+        return view('Posts.index');
     }
 }
